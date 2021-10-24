@@ -1,0 +1,6 @@
+{
+  "extends": ["airbnb-base", "plugin:prettier/recommended", "react-app"],
+  "rules": {
+    "prettier/prettier": ["error", { "endOfLine": "auto" }]
+  }
+}
